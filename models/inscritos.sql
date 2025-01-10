@@ -1,0 +1,1 @@
+select * from `dbt_study.dbt-dim-names`
